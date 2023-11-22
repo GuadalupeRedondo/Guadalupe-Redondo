@@ -28,6 +28,6 @@
 - Excel
 
 ## Contacto
-####redondo.guadalupe.01@gmail.com
-####+54 3875188569
-####www.linkedin.com/in/maría-guadalupe-redondo-barrionuevo
+- redondo.guadalupe.01@gmail.com
+- +54 3875188569
+- www.linkedin.com/in/maría-guadalupe-redondo-barrionuevo

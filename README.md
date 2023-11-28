@@ -1,12 +1,12 @@
-# ¡Hola! Soy Guadalupe Redondo, programadora Full Stack Jr. Me apasiona el diseño y disfruto fusionar la creatividad con la lógica del código.
+# Hello! I'm Guadalupe Redondo, a Junior Full Stack programmer. I'm passionate about design and enjoy merging creativity with the logic of code.
 
-💻 En este momento estoy trabajando en desarrollar proyectos como freelancer.
+💻  I'm working on developing projects as a freelancer.
 
-📚 Actualmente, estoy aprendiendo sobre diseño UX/UI y SEO para aplicarlo en mis proyectos.
+📚 Currently, I'm learning about UX/UI design and SEO to apply it to my projects.
 
-🏊‍♀️ Fuera del código, encuentro equilibrio en la natación y la pastelería.
+🏊‍♀️ Outside of coding, I find balance in swimming and pastry-making.
 
-## Tecnologías
+## Skils
 
 - HTML5
 - Javascript
@@ -27,7 +27,7 @@
 - Jira
 - Excel
 
-## Contacto
+## Contact
 - redondo.guadalupe.01@gmail.com
 - +54 3875188569
 - www.linkedin.com/in/maría-guadalupe-redondo-barrionuevo
